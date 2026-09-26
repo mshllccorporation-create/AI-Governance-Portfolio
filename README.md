@@ -10,6 +10,7 @@ Professional context: [Morgan Signing House](https://www.morgansigninghouse.com)
 
 - [GuvFlow AI governance](projects/guvflow-ai-governance/README.md)
 - [NSF TRAILS](projects/nsf-trails/README.md)
+- [AI-GEA SME cohort](projects/ai-gea-sme-cohort/README.md)
 - [AI adoption](projects/ai-adoption/README.md)
 - [Shadow AI governance](projects/ai-adoption/shadow-ai-governance.md)
 - [AI agent safety](projects/ai-agent-safety/README.md)
