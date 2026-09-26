@@ -12,6 +12,9 @@ I design practical governance approaches for organizations adopting AI. My work 
 | [AI Governance Control Stack for Operational Stability](publications/ai-governance-control-stack.md) | How can operational AI remain traceable and accountable as systems change? | Public conceptual research paper by Horatio Morgan. |
 | [SME explainability and governance pilot](projects/sme-governance-pilot.md) | How can resource-limited SMEs assess AI governance maturity? | High-level project description; no participant findings or unapproved results. |
 | [GuvFlow product overview](projects/guvflow-overview.md) | How can governance evidence move through assessment, review, and remediation? | High-level product narrative; private implementation is excluded. |
+| [GuvFlow flagship case study](projects/guvflow-flagship-case-study.md) | How can governance assessments connect to evidence, evaluation, and remediation? | Sanitized contribution summary with a generic evaluation artifact. |
+| [Morgan Signing House flagship case study](projects/morgan-signing-house-flagship-case-study.md) | How can AI governance be made usable through a live public experience? | Public website case study; private implementation is excluded. |
+| [Explainability and SME flagship case study](projects/explainability-sme-flagship-case-study.md) | How can research become a practical, evidence-led assessment process? | Fictional example; participant and client information is excluded. |
 | [Selected LinkedIn work samples](projects/linkedin-work-samples.md) | How do governance, explainability, adoption, and transformation work connect? | Sanitized professional summaries with explicit claim boundaries. |
 | [Synthetic evidence-to-decision example](examples/synthetic-evidence-to-decision.md) | What does an evidence-first governance review look like in practice? | Original, illustrative work sample using invented data and neutral controls. |
 
