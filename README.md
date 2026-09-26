@@ -4,6 +4,16 @@ I design practical governance approaches for organizations adopting AI. My work 
 
 ## Selected work
 
+## Featured projects
+
+| Project | My role and artifact | Public proof / result | Limitation |
+|---|---|---|---|
+| [GuvFlow](projects/guvflow-flagship-case-study.md) | Governance workflow, control-mapping, and evaluation design; sanitized test scenarios and review rubric | [Product site](https://www.guvflow.com), [audit pathway](https://www.guvflow.com/audit), and [demo](media/guvflow-public-demo.mp4) | Public materials do not verify private implementation, customer evidence, or measured performance. |
+| [SME assessment and explainability](projects/explainability-sme-flagship-case-study.md) | Staged assessment approach connecting maturity, evidence, human oversight, remediation, and re-evaluation | [Public research reference](https://arxiv.org/abs/2604.03262) and synthetic evidence-to-decision example | Participant findings, full instruments, and confidential records are excluded. |
+| [AI adoption and leadership](projects/cybersecurity-ai-adoption.md) | Adoption strategy, value/risk criteria, operating-model analysis, and governance recommendations | Public-safe academic case study and linked methodology | Scenario and projections must not be read as measured client outcomes. |
+
+**Roles this portfolio supports:** AI Governance Lead · AI Assurance and Evaluation · AI Transformation Program Lead
+
 | Project | Question addressed | Evidence of my work |
 |---|---|---|
 | [Human decision authority in AI assisted telecom operations](projects/telecom-human-decision-authority.md) | How should an organization decide what an AI system may automate and when a person must intervene? | Postgraduate AI for Business Module 2 written assignment; conceptual scenario. |
@@ -18,6 +28,7 @@ I design practical governance approaches for organizations adopting AI. My work 
 | [Selected LinkedIn work samples](projects/linkedin-work-samples.md) | How do governance, explainability, adoption, and transformation work connect? | Sanitized professional summaries with explicit claim boundaries. |
 | [Synthetic evidence-to-decision example](examples/synthetic-evidence-to-decision.md) | What does an evidence-first governance review look like in practice? | Original, illustrative work sample using invented data and neutral controls. |
 | [Quick EU AI Act & ISO/IEC 42001 guide](publications/quick-eu-ai-act-iso-42001-guide.md) | How can complex regulatory and standards material become implementation guidance? | Independent professional publication; not an official EU, ISO, or regulatory publication. |
+| [NSF TRAILS public-evidence assessment](projects/nsf-trails/public-evidence-assessment.md) | How can a public-site review identify authority limits, evidence gaps, and remediation priorities? | Sanitized live assessment summary; original report is not published. |
 
 ## Methods shown
 

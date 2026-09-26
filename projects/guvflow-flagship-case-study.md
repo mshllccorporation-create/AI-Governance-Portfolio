@@ -28,11 +28,13 @@ The following is a generic example of how an assessment test can be documented w
 
 This demonstrates the evaluation pattern—not a claim about private production behavior.
 
+See the expanded [sanitized evaluation sample](../../examples/sanitized-evaluation-sample.md) for simulated scenarios, expected behavior, human review decisions, and follow-up actions.
+
 ## Designed, tested, and deployed
 
 - **Designed:** governance workflows, control relationships, evidence requirements, and evaluation rubrics.
 - **Tested:** selected workflows and assessment logic through structured review and illustrative test cases.
-- **Deployed or adopted:** describe only specific public or independently verifiable deployments; do not infer production performance from the existence of a design.
+- **Deployment evidence:** this public portfolio records only observable public artifacts and specifically documented adoption. It does not infer production performance from the existence of a design.
 
 ## Boundaries
 
