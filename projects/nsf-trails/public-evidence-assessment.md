@@ -1,12 +1,14 @@
-# Public-evidence AI governance assessment | NSF TRAILS work sample
+# Authorized-evidence AI governance assessment | NSF TRAILS work sample
 
 **Assessment date:** March 18, 2026  
-**Assessment basis:** Public website evidence only  
-**Artifact:** Redacted initial assessment report reviewed for portfolio use
+**Assessment basis:** Authorized, organization-shared evidence
+**Artifact:** Sanitized summary of an initial assessment report reviewed for portfolio use
 
 ## My role
 
-I conducted a structured, client-facing assessment of an AI governance platform using publicly observable evidence. The work translated public claims and visible materials into a maturity judgment, authority recommendation, evidence-gap analysis, and remediation priorities.
+I conducted structured, client-facing AI governance, explainability, and evidence-readiness assessments using materials authorized and shared by participating organizations. The evidence sets included governance policies and frameworks, AI-use and system documentation, portfolios and charters, engagement materials, data and privacy controls, security and incident-response materials, and related operational records.
+
+The work translated the submitted evidence into a maturity judgment, authority recommendation where applicable, evidence-gap analysis, coaching priorities, and organization-specific remediation recommendations. It was not limited to public website review.
 
 ## Assessment domains
 
@@ -21,7 +23,7 @@ The review considered six domains:
 
 ## Result
 
-The assessment assigned an **A1 limited operational authority** determination based on the evidence available at the time. The recommendation was to limit use to informational, advisory, research, or demonstration contexts until stronger evidence was available for higher-risk authority.
+Where the assessed system's evidence supported an authority-tier determination, the assessment assigned an **A1 limited operational authority** determination based on the authorized evidence available at the time. The recommendation was to limit that system's use to informational, advisory, research, or demonstration contexts until stronger evidence was available for higher-risk authority. This was a governance recommendation within the assessment framework, not a regulatory finding or certification.
 
 The principal gaps identified were the absence of publicly demonstrated bias/drift monitoring, scoring methodology, governance review records, decision traceability, appeal mechanisms, and safe-use or boundary-control evidence.
 
@@ -36,4 +38,4 @@ The principal gaps identified were the absence of publicly demonstrated bias/dri
 
 ## Limitations
 
-This was a public-evidence assessment, not an internal audit or full control assessment. I did not have access to internal policies, logs, model documentation, audit reports, test evidence, or governance records. The original report is not included in this repository; this page is a sanitized summary and does not identify the assessed organization.
+This was an evidence-readiness and governance assessment based on authorized materials shared for the engagement. It was not an independent audit, certification, or legal determination, and it should not be treated as a complete assessment of every system or control in an organization. The conclusions were limited to the evidence set and scope provided; unshared systems, logs, model documentation, audit reports, test evidence, and other records may have existed outside that scope. The original client reports are not included in this repository. This page is a sanitized, cohort-level summary and does not identify the assessed organizations.
