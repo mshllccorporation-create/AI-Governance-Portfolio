@@ -33,6 +33,7 @@ This portfolio presents selected applied governance and assurance work, academic
 | [Quick EU AI Act & ISO/IEC 42001 guide](publications/quick-eu-ai-act-iso-42001-guide.md) | How can complex regulatory and standards material become implementation guidance? | Independent professional publication; not an official EU, ISO, or regulatory publication. |
 | [NSF TRAILS public-evidence assessment](projects/nsf-trails/public-evidence-assessment.md) | How can a public-site review identify authority limits, evidence gaps, and remediation priorities? | Sanitized live assessment summary; original report is not published. |
 | [Anonymized applied assessment experience](projects/nsf-trails/anonymous-applied-assessment-experience.md) | How can an evidence-based governance method be applied with real organizations while protecting confidentiality? | Cohort-level summary of live client-facing assessment work; participant identities and findings are withheld. |
+| [Anonymized assessment series](projects/nsf-trails/anonymized-assessment-series.md) | What does applied AI governance assessment look like across different organizational contexts? | Three generalized cases based on real organization-level reports; client identities and findings are withheld. |
 
 ## Methods shown
 
