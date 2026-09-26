@@ -11,4 +11,4 @@ Assessment questions include:
 - What could fail, and how would the organization detect and recover?
 - Who owns the system, risk, decision, and outcome?
 
-GuvFlow connects these answers to AI inventory, use cases, failure modes, controls, evidence, owners, implementation gates, monitoring, and review dates.
+These answers can be connected to AI inventory, use cases, failure modes, controls, evidence, owners, implementation gates, monitoring, and review dates.
