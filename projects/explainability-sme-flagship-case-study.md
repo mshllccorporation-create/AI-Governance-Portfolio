@@ -1,6 +1,6 @@
 # Explainability and SME governance | research-to-practice case study
 
-**Context:** Independent academic and applied governance work.
+**Context:** Independent academic and applied governance work, including real organization-level assessments completed through the NSF TRAILS pilot.
 
 > **See it in practice:** [Public research publication](https://arxiv.org/abs/2604.03262)
 
@@ -20,13 +20,13 @@ I developed a staged explainability and governance approach that connects:
 4. remediation ownership and decision records; and
 5. continuous re-evaluation as models, data, vendors, or workflows change.
 
-## Sanitized use case
+## Sanitized use case based on real assessment work
 
-An anonymized organizational assessment covered an AI-assisted operational workflow. The review recorded the intended purpose, affected people, data sources, decision authority, human review point, vendor dependencies, monitoring signals, and escalation route. A finding was treated as closed only after the owner supplied evidence that the agreed control was operating.
+This is a generalized account of real authorized assessment work—not a fictional scenario. An anonymized organizational assessment covered an AI-assisted operational workflow. The review recorded the intended purpose, affected people, data sources, decision authority, human review point, vendor dependencies, monitoring signals, and escalation route. A finding was treated as closed only after the owner supplied evidence that the agreed control was operating.
 
 ## Work sample
 
-The [anonymized evidence-to-decision work sample](../examples/anonymized-evidence-to-decision.md) shows this method using sanitized real assessment data. It does not reproduce a participant's identity, confidential record, or private scoring instrument.
+The [anonymized evidence-to-decision work sample](../examples/anonymized-evidence-to-decision.md) shows this method using sanitized evidence from real assessment work. It does not reproduce a participant's identity, confidential record, or private scoring instrument. The repository's separately labeled synthetic example is illustrative and should not be confused with this applied assessment work.
 
 ## Boundaries
 
