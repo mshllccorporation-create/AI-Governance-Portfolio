@@ -1,0 +1,11 @@
+.DS_Store
+*.env
+*.key
+*.pem
+*.p12
+credentials*
+secrets*
+private/
+confidential/
+client-data/
+raw-data/
