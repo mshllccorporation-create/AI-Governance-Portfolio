@@ -1,6 +1,8 @@
-# Horatio Morgan | AI governance and business transformation
+# Horatio Morgan | AI Governance, Safety & Assurance
 
-I design practical governance approaches for organizations adopting AI. My work connects business value, human decision authority, evidence, monitoring, and remediation. This portfolio presents selected academic case studies, a synthetic work sample, and public research. Proposed approaches and classroom scenarios are identified as such.
+I design and assess practical AI governance systems for organizations adopting AI. My work connects governance requirements to operational controls, human decision authority, evidence, monitoring, traceability, evaluation, and remediation.
+
+This portfolio presents selected applied governance and assurance work, academic case studies, synthetic work samples, AI safety and evaluation projects, and public research. Confidential organizational evidence is not published. Proposed approaches, synthetic examples, classroom scenarios, and work in development are clearly identified as such.
 
 ## Selected work
 
