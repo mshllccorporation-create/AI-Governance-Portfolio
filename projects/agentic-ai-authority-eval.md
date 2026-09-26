@@ -8,6 +8,12 @@
 
 This is current substantive project work, not a finished-performance claim.
 
+**Programme context:** Vista Institute for AI Policy — *AI Agents and the Law* (August–October 2026, in progress).
+
+## Research-to-implementation path
+
+`Vista AI Agents and the Law → agent measurement and evaluation → authority / approval / revocation threat model → GuvFlow operational controls → reference evaluation dataset → automated and human evaluation → independent telemetry → failure analysis and remediation → regression evaluation`
+
 ## Why this matters
 
 Many agent evaluations focus on whether a model produces a correct answer. This project evaluates whether the wider agent system behaves safely when authority, approval, evidence, and revocation matter.
