@@ -2,6 +2,10 @@
 
 **Public reference:** [guvflow.com](https://www.guvflow.com)
 
+> **See it in practice:** [Product site](https://www.guvflow.com) · [Public audit entry](https://www.guvflow.com/audit) · [Public demo video](../media/guvflow-public-demo.mp4)
+
+These links establish that a public product presence, audit pathway, and demo artifact are available. They do not independently verify private customer use, pilot counts, audit outcomes, or measured effectiveness.
+
 ## Problem
 
 Organizations need more than a policy statement or a one-time AI risk assessment. They need a repeatable way to identify AI assets, assign ownership, evaluate risk, connect controls to evidence, track remediation, and verify whether decisions remain valid as systems change.

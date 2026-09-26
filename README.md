@@ -32,4 +32,12 @@ These assignments were completed during the Executive Postgraduate Diploma in AI
 
 This portfolio is not an endorsement, certification, legal conclusion, or claim of independently verified product performance. The synthetic example is a work sample, not a live assessment.
 
+## Public proof points
+
+- [Morgan Signing House](https://www.morgansigninghouse.com/) — public framework, training, research, and service pathways.
+- [GuvFlow](https://www.guvflow.com/) — public product positioning, audit pathway, and walkthrough/demo route.
+- [AI governance publication](https://arxiv.org/abs/2604.03262) — publicly available research reference.
+
+These links show that the public sites and materials exist. They do not independently verify private customer evidence, pilot counts, sector-specific use, audit outcomes, or measured effectiveness.
+
 **Connect:** [LinkedIn](https://www.linkedin.com/in/horatiomorgan/) · [Public research](https://arxiv.org/abs/2604.03262) · [GuvFlow](https://www.guvflow.com/)

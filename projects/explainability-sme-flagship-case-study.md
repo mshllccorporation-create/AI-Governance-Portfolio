@@ -2,6 +2,10 @@
 
 **Context:** Independent academic and applied governance work.
 
+> **See it in practice:** [Public research publication](https://arxiv.org/abs/2604.03262)
+
+The publication link provides a public research reference. It does not establish that every framework element in this portfolio was independently validated or deployed in production.
+
 ## Problem
 
 Small and medium-sized organizations often need a practical way to understand their AI-governance maturity without starting with a large compliance programme. The challenge is to turn broad principles—transparency, fairness, oversight, privacy, and accountability—into review questions, evidence requests, decisions, and follow-up actions.

@@ -2,6 +2,10 @@
 
 **Public reference:** [morgansigninghouse.com](https://www.morgansigninghouse.com)
 
+> **See it in practice:** [Morgan Signing House website](https://www.morgansigninghouse.com/)
+
+The public site is the primary evidence for the visible framework, offerings, research, and training pathways. It does not establish private implementation details, independent assurance, or measured commercial outcomes.
+
 ## Problem
 
 An AI governance practice needs a public experience that explains complex ideas clearly while demonstrating disciplined information architecture, evidence-oriented thinking, and usable pathways for services, research, training, and client intake.
