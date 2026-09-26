@@ -8,7 +8,7 @@
 
 I conducted structured, client-facing AI governance, explainability, and evidence-readiness assessments using materials authorized and shared by participating organizations. The evidence sets included governance policies and frameworks, AI-use and system documentation, portfolios and charters, engagement materials, data and privacy controls, security and incident-response materials, and related operational records.
 
-The work translated the submitted evidence into a maturity judgment, authority recommendation where applicable, evidence-gap analysis, coaching priorities, and organization-specific remediation recommendations. It was not limited to public website review.
+The work translated the submitted evidence into a maturity judgment, authority recommendation where applicable, evidence-gap analysis, coaching priorities, and organization-specific remediation recommendations. Across the broader assessment work, organization-level reports were paired with coaching or implementation plans so that findings could move from policy documentation toward evidence-backed execution. It was not limited to public website review.
 
 ## Assessment domains
 
