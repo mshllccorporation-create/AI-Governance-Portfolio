@@ -4,6 +4,8 @@ This portfolio presents selected public-facing work by Horatio Morgan across AI 
 
 The work is connected to Morgan Signing House and public-facing AI governance, adoption, assurance, and transformation practice.
 
+Professional context: [Morgan Signing House](https://www.morgansigninghouse.com)
+
 ## Portfolio areas
 
 - [GuvFlow AI governance](projects/guvflow-ai-governance/README.md)
@@ -13,6 +15,7 @@ The work is connected to Morgan Signing House and public-facing AI governance, a
 - [AI supply-chain governance](projects/ai-supply-chain-governance/README.md)
 - [SOC 2 and SOC operations mapping](control-mappings/soc2-soc-operations.md)
 - [Academic and research work](projects/academic-and-research-work.md)
+- [Morgan Signing House context](projects/morgan-signing-house/README.md)
 
 ## Repository structure
 
