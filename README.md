@@ -17,6 +17,9 @@ Professional context: [Morgan Signing House](https://www.morgansigninghouse.com)
 - [SOC 2 and SOC operations mapping](control-mappings/soc2-soc-operations.md)
 - [Academic and research work](projects/academic-and-research-work.md)
 - [Morgan Signing House context](projects/morgan-signing-house/README.md)
+- [Module 2 case study](projects/academic-and-research-work/module-2-data-and-model-governance.md)
+- [Module 3 case study](projects/academic-and-research-work/module-3-ai-adoption.md)
+- [Module 4 case study](projects/academic-and-research-work/module-4-evidence-first-governance.md)
 
 ## Repository structure
 
