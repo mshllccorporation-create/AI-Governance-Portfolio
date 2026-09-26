@@ -21,7 +21,7 @@ Depending on the organization and scope, the reviews considered:
 
 ## How the public version protects participants
 
-The portfolio does not identify participating organizations or reproduce their reports. Public examples use neutral labels such as **Organization A**, **Organization B**, and **Organization C**, or use a fictional organization. The public version excludes:
+The portfolio does not identify participating organizations or reproduce their reports. Public examples use neutral labels such as **Organization A**, **Organization B**, and **Organization C**. Any separately illustrative example is labeled as such and is not presented as an assessment result. The public version excludes:
 
 - organization names, logos, and identifying URLs;
 - participant names and contact information;
@@ -32,7 +32,7 @@ The portfolio does not identify participating organizations or reproduce their r
 
 ## Public work sample
 
-The [synthetic evidence-to-decision example](../../examples/synthetic-evidence-to-decision.md) demonstrates the method using invented data. The [public-evidence assessment](public-evidence-assessment.md) demonstrates how a public-site review can produce an authority recommendation and remediation priorities without publishing a client report.
+The [anonymized evidence-to-decision work sample](../../examples/anonymized-evidence-to-decision.md) demonstrates the method using sanitized real assessment data. The [public-evidence assessment](public-evidence-assessment.md) demonstrates how a public-site review can produce an authority recommendation and remediation priorities without publishing a client report.
 
 ## Accurate claim boundary
 

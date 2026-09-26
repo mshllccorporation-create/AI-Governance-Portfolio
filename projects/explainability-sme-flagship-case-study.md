@@ -22,11 +22,11 @@ I developed a staged explainability and governance approach that connects:
 
 ## Sanitized use case
 
-A fictional SME adopts an AI-assisted customer-intake workflow. The review records the intended purpose, affected people, data sources, decision authority, human review point, vendor dependencies, monitoring signals, and escalation route. A finding is closed only after the owner supplies evidence that the agreed control is operating.
+An anonymized organizational assessment covered an AI-assisted operational workflow. The review recorded the intended purpose, affected people, data sources, decision authority, human review point, vendor dependencies, monitoring signals, and escalation route. A finding was treated as closed only after the owner supplied evidence that the agreed control was operating.
 
 ## Work sample
 
-The [synthetic evidence-to-decision example](../examples/synthetic-evidence-to-decision.md) shows this method with invented data and neutral controls. It is intentionally not a participant result, client assessment, or reproduction of a private scoring instrument.
+The [anonymized evidence-to-decision work sample](../examples/anonymized-evidence-to-decision.md) shows this method using sanitized real assessment data. It does not reproduce a participant's identity, confidential record, or private scoring instrument.
 
 ## Boundaries
 
