@@ -30,7 +30,7 @@ I design practical governance approaches for organizations adopting AI. My work 
 
 These assignments were completed during the Executive Postgraduate Diploma in AI for Business. Three assignments were developed with organizational partners; two involved live assessments, and the relevant work was adopted internally by the participating organizations. The portfolio describes my contribution without disclosing confidential materials. Other pages are academic scenarios, proposed approaches, or synthetic examples, and are labeled accordingly. The case studies do not speak for the University of Oxford or any other institution. No restricted research data, private GuvFlow source, full scoring instruments, proprietary playbooks, credentials, or confidential organizational records are included here.
 
-This portfolio is not an endorsement, certification, legal conclusion, or claim of independently verified product performance. Internal adoption of an assignment demonstrates organizational use, but does not by itself establish measured effectiveness, regulatory compliance, or production performance. The synthetic example is a work sample, not a live assessment.
+This portfolio is not an endorsement, certification, legal conclusion, or claim of independently verified product performance. Internal adoption of an assignment demonstrates organizational use, but does not by itself establish measured effectiveness, regulatory compliance, or production performance. The synthetic example is a separate illustrative work sample; two of the assignments involved live client-facing assessments.
 
 ## Public proof points
 
