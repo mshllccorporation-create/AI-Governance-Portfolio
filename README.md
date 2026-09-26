@@ -17,6 +17,7 @@ I design practical governance approaches for organizations adopting AI. My work 
 | [Explainability and SME flagship case study](projects/explainability-sme-flagship-case-study.md) | How can research become a practical, evidence-led assessment process? | Fictional example; participant and client information is excluded. |
 | [Selected LinkedIn work samples](projects/linkedin-work-samples.md) | How do governance, explainability, adoption, and transformation work connect? | Sanitized professional summaries with explicit claim boundaries. |
 | [Synthetic evidence-to-decision example](examples/synthetic-evidence-to-decision.md) | What does an evidence-first governance review look like in practice? | Original, illustrative work sample using invented data and neutral controls. |
+| [Quick EU AI Act & ISO/IEC 42001 guide](publications/quick-eu-ai-act-iso-42001-guide.md) | How can complex regulatory and standards material become implementation guidance? | Independent professional publication; not an official EU, ISO, or regulatory publication. |
 
 ## Methods shown
 
