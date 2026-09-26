@@ -29,6 +29,7 @@ I design practical governance approaches for organizations adopting AI. My work 
 | [Synthetic evidence-to-decision example](examples/synthetic-evidence-to-decision.md) | What does an evidence-first governance review look like in practice? | Original, illustrative work sample using invented data and neutral controls. |
 | [Quick EU AI Act & ISO/IEC 42001 guide](publications/quick-eu-ai-act-iso-42001-guide.md) | How can complex regulatory and standards material become implementation guidance? | Independent professional publication; not an official EU, ISO, or regulatory publication. |
 | [NSF TRAILS public-evidence assessment](projects/nsf-trails/public-evidence-assessment.md) | How can a public-site review identify authority limits, evidence gaps, and remediation priorities? | Sanitized live assessment summary; original report is not published. |
+| [Anonymized applied assessment experience](projects/nsf-trails/anonymous-applied-assessment-experience.md) | How can an evidence-based governance method be applied with real organizations while protecting confidentiality? | Cohort-level summary of live client-facing assessment work; participant identities and findings are withheld. |
 
 ## Methods shown
 
