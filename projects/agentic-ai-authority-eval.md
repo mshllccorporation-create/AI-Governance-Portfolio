@@ -4,6 +4,10 @@
 **Application context:** GuvFlow operational governance research  
 **Safety question:** Can an agent remain within delegated authority, respect human approval, stop when authority is revoked, and produce trustworthy evidence of what happened?
 
+> 🟡 **IN DEVELOPMENT — Vista AI Policy**
+
+This is current substantive project work, not a finished-performance claim.
+
 ## Why this matters
 
 Many agent evaluations focus on whether a model produces a correct answer. This project evaluates whether the wider agent system behaves safely when authority, approval, evidence, and revocation matter.
@@ -54,6 +58,8 @@ The evaluation design is intended to address benchmark validity, including:
 ## Public evidence boundary
 
 The eventual public artifact should use a curated, non-sensitive demonstration dataset and should not disclose private GuvFlow source code, customer data, credentials, or internal scoring logic. A research benchmark and a smaller recruiter demonstration set should be labeled separately if both are created.
+
+The first ten-case reference set is available as [`cases_v0.1.jsonl`](cases_v0.1.jsonl).
 
 ## Framework relevance
 
