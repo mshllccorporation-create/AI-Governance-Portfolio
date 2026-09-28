@@ -1,0 +1,31 @@
+{
+  "artifact_type": "paper_trading_journal_summary",
+  "artifact_name": "DIRF Journal Summary",
+  "created_at": "2026-09-28",
+  "scope": "Saved DIRF paper decisions and methodology records",
+  "records": {
+    "saved_decision_records": 7,
+    "verified_live_orders": 0,
+    "paper_positions_entered": 0,
+    "realized_pnl": null,
+    "calibration_status": "unscored",
+    "directional_accuracy_status": "unscored"
+  },
+  "risk_profile": {
+    "risk_level": "medium caution",
+    "maximum_loss_per_trade": 15.0,
+    "maximum_daily_loss": 30.0,
+    "maximum_open_positions": 1,
+    "defined_risk_only": true,
+    "overnight_holds": false
+  },
+  "lessons": [
+    "A no-trade decision is a valid result and must be journaled.",
+    "No result should be scored without a verified trigger, fill, exit, and timestamp.",
+    "Correlated positions can duplicate the same macro or sector risk.",
+    "Options evaluations require contract, bid/ask, IV, Greeks, liquidity, slippage, and fees.",
+    "A high actionability score does not establish factual grounding or profitability."
+  ],
+  "next_metrics": ["directional accuracy", "probability calibration", "net return after spread, slippage, and fees", "maximum drawdown", "results by strategy", "results across market regimes"],
+  "limitations": ["The saved records are paper-only.", "The current sample is too small for performance claims.", "Some historical option-chain and fill data are unavailable.", "No brokerage credentials or live execution are included."]
+}
