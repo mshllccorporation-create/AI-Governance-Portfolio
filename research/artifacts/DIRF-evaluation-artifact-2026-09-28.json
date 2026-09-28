@@ -1,0 +1,69 @@
+{
+  "artifact_type": "evaluation_artifact",
+  "artifact_name": "DIRF Evaluation Artifact",
+  "artifact_id": "dirf-eval-2026-09-28-001",
+  "created_at": "2026-09-28",
+  "system": "DIRF",
+  "full_name": "Disciplined Investment Research Framework",
+  "purpose": "Evaluate a paper-trading decision-support agent for observability, evidence grounding, actionability, abstention, and human-label agreement.",
+  "status": "experimental",
+  "safety_scope": {
+    "paper_trading_only": true,
+    "live_orders": false,
+    "financial_advice": false,
+    "guaranteed_performance": false,
+    "synthetic_data_included": true
+  },
+  "dataset": {
+    "case_count": 5,
+    "tickers": ["SPY", "QQQ", "AAPL", "AMD"],
+    "included_case": "Archived September 14, 2026 SPY conditional report",
+    "data_quality": "Synthetic fixtures plus user-supplied report; not verified live market data"
+  },
+  "metrics": {
+    "baseline": {
+      "cases": 5,
+      "ticker_mention_accuracy": 1.0,
+      "evidence_faithfulness_rate": 0.0,
+      "mean_actionability_score": 1.0,
+      "failure_count": 5,
+      "human_label_agreement": 0.5
+    },
+    "improved": {
+      "cases": 5,
+      "ticker_mention_accuracy": 1.0,
+      "evidence_faithfulness_rate": 0.2,
+      "mean_actionability_score": 1.0,
+      "failure_count": 4,
+      "human_label_agreement": 0.25
+    },
+    "experiment": {
+      "actionability_score_delta": 0.0,
+      "trading_profit_loss": null,
+      "calibration_claim": null,
+      "conclusion": "Evidence grounding remains the primary failure area. The sample is too small for a reliable performance claim."
+    }
+  },
+  "decision_rules": {
+    "valid_verdicts": ["TRADE", "WATCH", "NO TRADE", "NO RELIABLE SETUP"],
+    "required_output_fields": ["verdict", "direction", "probabilities", "entry_trigger", "invalidation", "exit_plan", "evidence"],
+    "abstention_conditions": ["stale data", "missing options chain", "inadequate liquidity", "unverified fill", "material model disagreement"]
+  },
+  "lessons": [
+    "Ticker mention alone is not evidence faithfulness.",
+    "An actionable-looking answer can still be poorly grounded.",
+    "Missing or stale market data should increase abstention.",
+    "Small evaluation samples should not be treated as prediction accuracy.",
+    "Exact option contracts, bid-ask spreads, Greeks, fills, slippage, fees, and timestamps are required before scoring paper P/L."
+  ],
+  "next_steps": [
+    "Replace synthetic fixtures with licensed point-in-time data.",
+    "Require source citation and timestamp metadata for every factual claim.",
+    "Expand and review human labels.",
+    "Add probability calibration, drawdown, regime, and net paper-P/L metrics.",
+    "Export traces and evaluation records to Arize AX after local authentication."
+  ],
+  "source_files": ["evals/dirf_agent.py", "evals/run_evals.py", "evals/test_cases.json", "evals/human_labels.json", "evals/artifacts/latest-eval-report.json"],
+  "reproduction_command": "python3 evals/run_evals.py",
+  "recommended_github_path": "research/artifacts/DIRF-evaluation-artifact-2026-09-28.json"
+}
