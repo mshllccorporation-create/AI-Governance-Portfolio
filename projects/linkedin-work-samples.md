@@ -21,7 +21,7 @@ I designed and maintain a public-facing governance website covering services, re
 
 I have contributed to the design of an operational AI-governance concept covering AI inventories, risk and maturity assessment, evidence, ownership, remediation, oversight, and reporting. I also developed public-facing concepts for authority scoping, approval gates, monitoring, traceability, revocation, and incident containment.
 
-**Work sample:** The [GuvFlow overview](guvflow-overview.md), the [synthetic evidence-to-decision example](../examples/synthetic-evidence-to-decision.md), and the public demo in the `media/` folder.
+**Work sample:** The [GuvFlow overview](guvflow-overview.md), the [synthetic evidence-to-decision example](../examples/anonymized-evidence-to-decision.md), and the public demo in the `media/` folder.
 
 **Boundary:** This portfolio does not publish private implementation details, customer evidence, internal scoring instruments, or certification claims. Any adoption or pilot figures should be independently verified before being used as formal performance evidence.
 

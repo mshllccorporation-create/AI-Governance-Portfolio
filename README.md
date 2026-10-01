@@ -1,8 +1,34 @@
-# Horatio Morgan | AI Governance, Safety & Assurance
+# Horatio Morgan | AI Governance & Assurance | AI Safety Evaluation
 
-I design and assess practical AI governance systems for organizations adopting AI. My work connects governance requirements to operational controls, human decision authority, evidence, monitoring, traceability, evaluation, and remediation.
+I design and assess practical AI governance systems and safety evaluations for organizations adopting AI. This portfolio presents two related but distinct disciplines: **AI Governance & Assurance** addresses accountability, policy, control ownership, evidence, oversight, auditability, lifecycle management, and organizational decision rights; **AI Safety Evaluation** tests whether AI and agentic systems behave safely under authority limits, approval requirements, failure conditions, intervention, and revocation.
 
 This portfolio presents selected applied governance and assurance work, academic case studies, synthetic work samples, AI safety and evaluation projects, and public research. Confidential organizational evidence is not published. Proposed approaches, synthetic examples, classroom scenarios, and work in development are clearly identified as such.
+
+## Portfolio map
+
+The two tracks are intentionally parallel. They share evidence-minded methods, but they answer different questions and should not be read as one blended architecture.
+
+### AI Governance & Assurance
+
+Governance work covers **GuvFlow**, regulatory and standards mappings, ISO/IEC 42001, EU AI Act-oriented analysis, NIST AI RMF, SOC 2-oriented controls, EVIDE, AHDA, auditability, evidence-to-decision records, ownership, remediation, and organizational assurance. Where DIRF appears in this track, it is presented only as a **controlled decision-flow mechanism** for producing traceable, governed outputs.
+
+- [GuvFlow flagship case study](projects/guvflow-flagship-case-study.md)
+- [GuvFlow overview](projects/guvflow-overview.md)
+- [Control mappings](control-mappings/)
+- [Evidence-first governance example](examples/anonymized-evidence-to-decision.md)
+- [AI Governance Control Stack](publications/ai-governance-control-stack.md)
+- [DIRF: governance and evaluation case study](projects/dirf-evaluation/README.md)
+
+EVIDE and AHDA are retained as governance/assurance concepts in this portfolio map. No private implementation, proprietary source, or unverified standalone artifact is asserted here.
+
+### AI Safety Evaluation
+
+Safety work covers **agentic authority-boundary evaluation, approval-gate testing, escalation and revocation testing, unsafe-action prevention, failure-mode evaluation, agent observability, intervention, containment, robustness, and behavioral evidence**. Where DIRF appears in this track, it is presented only as a **mechanism being evaluated for constraining or testing agent behavior**, not as proof that it provides safety or governance in production.
+
+- [Agentic AI Authority & Approval-Gate Evaluation](projects/agentic-ai-authority-eval.md)
+- [DIRF evaluation and governance case study](projects/dirf-evaluation/README.md)
+- [DIRF evaluation artifact](research/artifacts/DIRF-evaluation-artifact-2026-09-28.json)
+- [DIRF journal summary](artifacts/dirf-journal-summary.json)
 
 ## Selected work
 
@@ -29,7 +55,7 @@ This portfolio presents selected applied governance and assurance work, academic
 | [Morgan Signing House flagship case study](projects/morgan-signing-house-flagship-case-study.md) | How can AI governance be made usable through a live public experience? | Public website case study; private implementation is excluded. |
 | [Explainability and SME flagship case study](projects/explainability-sme-flagship-case-study.md) | How can an applied, evidence-led assessment process support organizational governance? | Generalized summary of real authorized organization-level assessment work; participant and client information is excluded. |
 | [Selected LinkedIn work samples](projects/linkedin-work-samples.md) | How do governance, explainability, adoption, and transformation work connect? | Sanitized professional summaries with explicit claim boundaries. |
-| [Synthetic evidence-to-decision example](examples/synthetic-evidence-to-decision.md) | What does an evidence-first governance review look like in practice? | Original, illustrative work sample using invented data and neutral controls. |
+| [Synthetic evidence-to-decision example](examples/anonymized-evidence-to-decision.md) | What does an evidence-first governance review look like in practice? | Original, illustrative work sample using invented data and neutral controls. |
 | [Quick EU AI Act & ISO/IEC 42001 guide](publications/quick-eu-ai-act-iso-42001-guide.md) | How can complex regulatory and standards material become implementation guidance? | Independent professional publication; not an official EU, ISO, or regulatory publication. |
 | [NSF TRAILS public-evidence assessment](projects/nsf-trails/public-evidence-assessment.md) | How can a public-site review identify authority limits, evidence gaps, and remediation priorities? | Sanitized live assessment summary; original report is not published. |
 | [Anonymized applied assessment experience](projects/nsf-trails/anonymous-applied-assessment-experience.md) | How can an evidence-based governance method be applied with real organizations while protecting confidentiality? | Cohort-level summary of live client-facing assessment work; participant identities and findings are withheld. |
